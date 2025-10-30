@@ -13,5 +13,7 @@ const soma = primeiroNumero + segundoNumero;
 const expo = soma ** 2;
 let resultadoTriplicado = expo * 3;
 resultadoTriplicado = resultadoTriplicado + 5;
+const letra = 'abc'
 console.log(typeof primeiroNumero)
+console.log(typeof letra + expo)
 
